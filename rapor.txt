@@ -1,0 +1,6 @@
+Analysis Date: 02.05.2026  14:02:15
+------------------------------------------------------------
+Toplam 2 adet "ERROR" Hatası Saptandı!
+Toplam Başarısız Giriş sayısı 2 olarak tespit edildi!
+Bulunamayan Sayfa sayısı 1 olarak tespit edildi!
+Toplam "WARNING" Hata sayısı: 1

@@ -1,0 +1,9 @@
+2016-05-20 10:15:42 INFO: System boot sequence started.
+2016-05-20 10:16:01 ERROR: Database connection failed!
+2023-11-12 14:22:10 WARNING: High memory usage detected (85%).
+2024-01-05 09:00:05 FAILED LOGIN: User 'admin' attempted from IP 192.168.1.45
+2024-01-05 09:00:10 FAILED LOGIN: User 'admin' attempted from IP 192.168.1.45
+2024-04-28 23:58:00 INFO: User 'seyma' logged in successfully.
+2024-04-29 11:30:15 404: /admin/config.php not found.
+2026-05-02 12:00:00 CRITICAL: Security breach attempt detected! SQL Injection pattern.
+2026-05-02 13:45:10 ERROR: File not found in /usr/bin/data.
