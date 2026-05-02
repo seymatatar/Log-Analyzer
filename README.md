@@ -23,22 +23,29 @@ This project is a fundamental Python script designed to scan server log files (`
 ```bash
 python log_analyzer.py
 ```
+
+### 📂 File Structure
+* `log_analyzer.py`: Main analysis script.
+* `server.log`: Source data to be analyzed (must be provided by the user).
+* `rapor.txt`: Result report created upon completion of the analysis.
+
 ### ⚖️ License
-This project is provided under the MIT License.
+This project is provided under the **MIT License**.
 
 
-## us Turkish
 
 # 📊 Simple Log Analyzer
 
+## us Turkish
+
 Bu proje, bir sunucu log dosyasını (`server.log`) tarayarak belirli hata türlerini ayırt eden ve analiz sonuçlarını tarih damgalı profesyonel bir rapor dosyasına dönüştüren temel bir Python scriptidir.
 
-## ✨ Özellikler
+### ✨ Özellikler
 * 🔍 **Hata Tespiti:** `ERROR`, `FAILED LOGIN`, `404` ve `WARNING` anahtar kelimelerini otomatik olarak tespit eder.
 * 📂 **Profesyonel Raporlama:** Analiz sonuçlarını düzenli ve okunabilir bir formatta `rapor.txt` dosyasına kaydeder.
 * 🕒 **Zaman Damgası:** `datetime` kütüphanesini kullanarak her analiz raporuna işlem zamanını ekler.
 
-## 🚀 Kurulum ve Kullanım
+### 🚀 Kurulum ve Kullanım
 Uygulamayı çalıştırmak için şu adımları izleyin:
 
 1. Projeyi bilgisayarınıza klonlayın veya dosyaları indirin.
@@ -48,10 +55,10 @@ Uygulamayı çalıştırmak için şu adımları izleyin:
 python log_analyzer.py
 ```
 
-## 📂 Dosya Yapısı
+### 📂 Dosya Yapısı
 * `log_analyzer.py`: Ana analiz scripti.
 * `server.log`: Analiz edilecek kaynak veri (Kullanıcı tarafından sağlanmalıdır).
 * `rapor.txt`: Analiz tamamlandığında oluşturulan sonuç raporu.
 
-## ⚖️ Lisans
+### ⚖️ Lisans
 Bu proje **MIT Lisansı** altında sunulmaktadır.
